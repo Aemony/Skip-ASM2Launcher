@@ -10,9 +10,9 @@ These aren't all the registry keys the game uses, but these seem to be the most 
 
 ASM2Launcher.exe and Game.exe also sets a couple of other register keys as well, which are mentioned below:
 
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 Set by Game.exe itself:
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 [HKEY_CURRENT_USER\Software\Activision\The Amazing Spider-Man 2 (TM)\Settings\Display]
 "PerfHUD"=dword:00000000
 "Brightness"=dword:00000000
@@ -27,9 +27,9 @@ Set by Game.exe itself:
 [HKEY_CURRENT_USER\Software\Activision\The Amazing Spider-Man 2 (TM)\Settings\Game]
 "CleanQuit"=dword:00000001
 
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 Set by ASM2Launcher.exe: (Seems to be useless?)
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 [HKEY_CURRENT_USER\Software\Activision\The Amazing Spider-Man 2 (TM)\GameConfig]
 "AlreadyRun"=dword:00000001
 
