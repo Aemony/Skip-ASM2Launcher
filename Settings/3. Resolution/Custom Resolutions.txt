@@ -1,0 +1,16 @@
+Custom resolutions can easily be chosen by editing the Windows registry directly.
+
+Path:
+HKEY_CURRENT_USER\Software\Activision\The Amazing Spider-Man 2 (TM)\Settings\Display
+
+Keys: (all are DWORDs containing the appropriate value in hexadecimal)
+* Width
+* Height
+* AspectRatio
+ - 0 = 5:4
+ - 1 = 4:3
+ - 2 = 16:10
+ - 3 = 16:9
+ - 4 = Unknown
+ - 5 = Custom/Unknown (seen used for both 3:2 and 9:5 aspect ratios)
+

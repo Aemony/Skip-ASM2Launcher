@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Activision\The Amazing Spider-Man 2 (TM)\Install]
+"Language"=dword:00000003

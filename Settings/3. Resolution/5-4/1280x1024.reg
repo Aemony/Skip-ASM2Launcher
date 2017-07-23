@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Activision\The Amazing Spider-Man 2 (TM)\Settings\Display]
+"Height"=dword:00000400
+"Width"=dword:00000500
+"AspectRatio"=dword:00000000
+
